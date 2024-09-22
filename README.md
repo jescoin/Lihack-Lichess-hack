@@ -2,6 +2,7 @@
 
 _LOGins and passwords from lichess's accounts_
 
+Support  [telegram](https://t.me/hackdalichess)
 
 ***THE PASSWORDS CAN ALREADY BE CHANGED ON ACCOUNTS***
 
@@ -14,3 +15,4 @@ _log_:**github-jescoin** _pass_:**X30082011x**
 
 _log:_**Samodaykin_Valery** _pass:_**V3p7LkSda6904**
 
+_log:_**github-jescoin2** _pass:_**X30082011x**
