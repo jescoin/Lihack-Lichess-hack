@@ -1,12 +1,12 @@
 # Lihack-Lichess-hack
-LOGins and passwords from lichess's accounts
-Russian version: 
+_LOGins and passwords from lichess's accounts_
+***THE PASSWORDS CAN ALREADY BE CHANGED ON ACCOUNTS ***
 
-So here the LOG and passwords from many acccounts, this accoutnts have got the clubs which have got 150+ members
+So here the **LOG** and **passwords** from many acccounts, this accoutnts have got the clubs which have got 150+ members
 
-log:Titanmanxd  pass:Андрейiopfttyyu12355555)
+_log:_**Titanmanxd**  _pass_:**Андрейiopfttyyu12355555)**
 
-log:github-jescoin pass:X30082011x
+_log_:**github-jescoin** _pass_:**X30082011x**
 
-log:Samodaykin_Valery pass:V3p7LkSda6904
+_log:_**Samodaykin_Valery** _pass:_**V3p7LkSda6904**
 
