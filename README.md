@@ -1,6 +1,9 @@
 # Lihack-Lichess-hack
+
 _LOGins and passwords from lichess's accounts_
-***THE PASSWORDS CAN ALREADY BE CHANGED ON ACCOUNTS ***
+
+
+***THE PASSWORDS CAN ALREADY BE CHANGED ON ACCOUNTS***
 
 So here the **LOG** and **passwords** from many acccounts, this accoutnts have got the clubs which have got 150+ members
 
